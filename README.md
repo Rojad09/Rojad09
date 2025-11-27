@@ -9,7 +9,7 @@ My name is Daniel Rojas. I am a Cybersecurity Student, Graduating in 2026. Conta
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
-### 📂 My Studies
+## 📂 My Studies
 
 * 📘 **[Cybersecurity Learning Journal](https://github.com/Rojad09/Cybersecurity-Learning-Journal):** write-ups on CTFs and rooms (TryHackMe/HackTheBox).
 * 🛡️ **[Active Directory Lab](https://github.com/Rojad09/Active-Directory-Lab):** *[Coming Soon]* simulating brute force attacks and SIEM detection.
