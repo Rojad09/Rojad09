@@ -5,6 +5,7 @@ My name is Daniel Rojas. I am a Cybersecurity Student, Graduating in 2026. Conta
 ## Certs/Tech
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-0064A7?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
