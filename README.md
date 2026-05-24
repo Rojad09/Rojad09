@@ -1,5 +1,5 @@
 ### Hello, I hope everyone's day has been well so far! 👋　
-My name is Daniel Rojas. I am a Trilingual (English/Spanish/Japanese) Cybersecurity Student, Graduating in 2026. Contact me at: danielrojas500@hotmail.com
+My name is Daniel Rojas. I am a Trilingual (English/Spanish/Japanese) Cybersecurity Student, Graduating in 2026. Contact me at: 
 
 独学で学んだことや、サイバーセキュリティに関するメモなどをいろいろ公開していくつもりです！どうぞよろしくお願いします！
 
