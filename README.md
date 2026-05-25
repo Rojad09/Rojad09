@@ -18,5 +18,5 @@ My name is Daniel Rojas. I am a Trilingual (English/Spanish/Japanese) Cybersecur
 
 ## 📂 My Studies
 
-* 📘 **[Cybersecurity Lab Documentation](https://github.com/Rojad09/Cybersecurity-Lab-Documentation):** write-ups on CTFs and rooms (TryHackMe/HackTheBox).
+* 📘 **[Personal Cybersec Notes](https://github.com/Rojad09/Cybersecurity-Lab-Documentation):** write-ups on CTFs and rooms (TryHackMe/HackTheBox).
 * 🛡️ **[Active Directory Lab](https://github.com/Rojad09/Active-Directory-Lab):** *[Coming Soon]* simulating brute force attacks and SIEM detection.
