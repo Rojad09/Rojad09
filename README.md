@@ -17,6 +17,6 @@ My name is Daniel Rojas. I am a Trilingual (English/Spanish/Japanese) Cybersecur
 [![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
 
 ## 📂 My Studies
-* **[Cybersecurity Glossary - English and Japanese](https://github.com/Rojad09/cybersecurity-glossary-en-ja):** continuously updated glossary on the technical, yet important EN/JPN cybersecurity vocab
+* **[Cybersecurity Glossary - English/Japanese](https://github.com/Rojad09/cybersecurity-glossary-en-ja):** continuously updated glossary on the technical, yet important EN/JPN cybersecurity vocab
 * 📘 **[Personal Cybersec Journal](https://github.com/Rojad09/Cybersecurity-Learning-Journal):** personal, unorganized notes on CTFs and rooms (TryHackMe/HackTheBox).
 * 🛡️ **[Active Directory Lab](https://github.com/Rojad09/Active-Directory-Lab):** *[Coming Soon]* simulating brute force attacks and SIEM detection.
