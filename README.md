@@ -18,5 +18,6 @@ My name is Daniel Rojas. I am a Trilingual (English/Spanish/Japanese) Cybersecur
 
 ## 📂 My Studies
 * **[Cybersecurity Glossary - English/Japanese](https://github.com/Rojad09/cybersecurity-glossary-en-ja):** continuously updated glossary on the technical, yet important EN/JPN cybersecurity vocab
+* **[CTI Analysis: Mirrorface APT (EN/JP)](https://github.com/Rojad09/CTI-MirrorFace-Analysis):** Translated native Japanese OSINT to map threat actor TTPs to MITRE ATT&CK and engineered custom Sigma detection rules for SOC teams.
 * 📘 **[Personal Cybersec Journal](https://github.com/Rojad09/Cybersecurity-Learning-Journal):** personal, unorganized notes on CTFs and rooms (TryHackMe/HackTheBox).
 * 🛡️ **[Active Directory Lab](https://github.com/Rojad09/Active-Directory-Lab):** *[Coming Soon]* simulating brute force attacks and SIEM detection.
