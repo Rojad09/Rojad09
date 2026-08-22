@@ -1,7 +1,11 @@
 ### Hello, I hope everyone's day has been well so far! 👋　
-My name is Daniel Rojas. I am a Trilingual (English/Spanish/Japanese) Cybersecurity Student, Graduating in 2026. Contact me at: 
+My name is Daniel Rojas. I am a trilingual (English, Spanish, Japanese) cybersecurity enthusiast who recently graduated with a Bachelor of Applied Science (BASc) in Information Technology, specializing in Cybersecurity and Ethical Hacking.
 
-独学で学んだことや、サイバーセキュリティに関するメモなどをいろいろ公開していくつもりです！どうぞよろしくお願いします！
+英語・スペイン語・日本語の3カ国語を話す、サイバーセキュリティ好きです！2026年8月6日に情報技術（サイバーセキュリティおよびエシカルハッキング専攻）の学士号（BASc）を取得しました。
+
+独学で学んだことやサイバーセキュリティに関するメモなどをどんどん公開していくつもりです！どうぞよろしくお願いします！
+
+Linkedin: https://www.linkedin.com/in/daniel-r-09a2653a8/
 
 ## Certs/Tech
 
